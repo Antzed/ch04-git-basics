@@ -27,8 +27,8 @@ breakfast today
 
 I ate:
 bread,
-dumpling
-egg
+dumpling,
+egg,
 bacon
 for this breakfast
 
