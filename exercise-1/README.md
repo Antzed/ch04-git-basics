@@ -25,6 +25,13 @@ many good editors for markdown.
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
 
+I ate:
+bread,
+dumpling
+egg
+bacon
+for this breakfast
+
 6. Using your terminal, add and commit the changes you've made to your
    repository.  See [Making
    Changes](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#making-changes). 
