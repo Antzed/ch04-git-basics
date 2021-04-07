@@ -15,9 +15,9 @@ Learn the basics of git workflow, including adding new files.
 
 5. Add the image to this file using markdown syntax.
    
-![This is an image of Proxima Centauri B, a habitable planet oribit around the cloest star to our solar system, Proxima Centauri.][img/1_Z5AiNWfEvW23nEOtYD36Kg.png]
+![This is an image of Proxima Centauri B, a habitable planet oribit around the cloest star to our solar system, Proxima Centauri.][/img/1_Z5AiNWfEvW23nEOtYD36Kg.png]
 
-5. Write a paragraph of text where you explaine what the picture is
+5. Write a paragraph of text where you explaine what the pictur is
    about.  Feel free to add more.
 
 4. commit your changes:  
