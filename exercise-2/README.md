@@ -17,8 +17,10 @@ Learn the basics of git workflow, including adding new files.
    
 ![This is an image of Proxima Centauri B, a habitable planet oribit around the cloest star to our solar system, Proxima Centauri.](1_Z5AiNWfEvW23nEOtYD36Kg.png "This is an image of Proxima Centauri B, a habitable planet oribit around the cloest star to our solar system, Proxima Centauri.")
 
-5. Write a paragraph of text where you explaine what the pictur is
+5. Write a paragraph of text where you explaine what the picture is
    about.  Feel free to add more.
+
+This is an image of Proxima Centauri B, a habitable planet oribit around the cloest star to our solar system, Proxima Centauri.
 
 4. commit your changes:  
 `git commit -am "<explain what did you do>"`
